@@ -52,11 +52,11 @@ array destructuring
 	console.log(person)
 	console.log(person1)
 	o/p=>parul
-	    rishiv
+	     rishiv
 primitive type(string,number)=> copy the value of a
  const a= 10
  let b= a
  console.log("a",a)
  console.log("b",b)
-o/p =>a 10
-       b=10
+ o/p =>a 10
+      b=10
